@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1735991185 source:c:\users\iceage31590\documents\codeblocks\wgu project\wgu project\student data\main.cpp
+	<iostream>
+	"roster.h"
+
+1735991185 source:c:\users\iceage31590\documents\codeblocks\wgu project\wgu project\student data\roster.cpp
+	<iostream>
+	<sstream>
+	"roster.h"
+
+1735991185 source:c:\users\iceage31590\documents\codeblocks\wgu project\wgu project\student data\student.cpp
+	<iostream>
+	"student.h"
+
+1735991185 c:\users\iceage31590\documents\codeblocks\wgu project\wgu project\student data\student.h
+	"degree.h"
+	<string>
+	<iostream>
+
+1735991255 c:\users\iceage31590\documents\codeblocks\wgu project\wgu project\student data\degree.h
+	<string>
+
+1735991185 c:\users\iceage31590\documents\codeblocks\wgu project\wgu project\student data\roster.h
+	"student.h"
+	<string>
+
