@@ -1,3 +1,5 @@
+#pragma once
+//student.h
 #ifndef STUDENT_H_INCLUDED
 #define STUDENT_H_INCLUDED
 
@@ -8,8 +10,8 @@
 class Student {
 public:
     Student(const std::string& studentID, const std::string& firstName,
-            const std::string& lastName, const std::string& emailAddress,
-            int age, const int daysInCourse[], Degree degree);
+        const std::string& lastName, const std::string& emailAddress,
+        int age, const int daysInCourse[], Degree degree);
 
     // Accessors
     std::string getStudentID() const;
